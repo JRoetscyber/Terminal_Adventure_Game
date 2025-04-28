@@ -1,23 +1,26 @@
-# Programming 511 Practice Project
+# Terminal Adventure Game
 
-This repository contains practice exercises and projects for the Programming 511 course (2025S1PR511BD).
+This repository contains the "Terminal Adventure Game," a text-based RPG where players explore, fight enemies, and collect items to defeat a dragon.
 
 ## Project Structure
 
-- **Source Code**: Contains all the code files for the exercises.
-- **Documentation**: Includes any relevant documentation or notes.
+- **Source Code**: Contains the main game logic in `terminal_game.py`.
+- **Documentation**: Includes this README file with instructions on how to use the project.
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/JRoetscyber/Terminal_Adventure_Game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd Terminal_Adventure_Game
    ```
-3. Follow the instructions in the individual project files.
+3. Run the game:
+   ```bash
+   python terminal_game.py
+   ```
 
 ## License
 
